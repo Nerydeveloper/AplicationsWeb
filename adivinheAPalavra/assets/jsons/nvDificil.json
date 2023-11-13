@@ -1,0 +1,859 @@
+{
+    "assuntos": [
+        {
+            "nome": "Animais",
+            "palavras": [
+                {
+                    "nome": "Leão",
+                    "caracteristicas": [
+                        "Grande felino",
+                        "Predador",
+                        "Juba majestosa"
+                    ]
+                },
+                {
+                    "nome": "Pinguim",
+                    "caracteristicas": [
+                        "Ave marinha",
+                        "Nadador habilidoso",
+                        "Barriga branca"
+                    ]
+                },
+                {
+                    "nome": "Zebra",
+                    "caracteristicas": [
+                        "Mamífero listrado",
+                        "Herbívoro",
+                        "Vive na savana"
+                    ]
+                },
+                {
+                    "nome": "Tigre",
+                    "caracteristicas": [
+                        "Grande felino",
+                        "Listras laranjas e pretas",
+                        "Caçador habilidoso"
+                    ]
+                },
+                {
+                    "nome": "Gorila",
+                    "caracteristicas": [
+                        "Primate gigante",
+                        "Vive na floresta",
+                        "Força impressionante"
+                    ]
+                },
+                {
+                    "nome": "Avestruz",
+                    "caracteristicas": [
+                        "Ave não voadora",
+                        "Corre rapidamente",
+                        "Pescoço longo"
+                    ]
+                },
+                {
+                    "nome": "Panda Vermelho",
+                    "caracteristicas": [
+                        "Pequeno mamífero",
+                        "Pelagem avermelhada",
+                        "Parente do panda gigante"
+                    ]
+                },
+                {
+                    "nome": "Pássaro Canário",
+                    "caracteristicas": [
+                        "Pássaro canoro",
+                        "Plumagem amarela",
+                        "Canto melodioso"
+                    ]
+                },
+                {
+                    "nome": "Baleia Jubarte",
+                    "caracteristicas": [
+                        "Gigante dos oceanos",
+                        "Cantora",
+                        "Saltos espetaculares"
+                    ]
+                },
+                {
+                    "nome": "Canguru",
+                    "caracteristicas": [
+                        "Marsupial",
+                        "Pula longas distâncias",
+                        "Bolsa para os filhotes"
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Alimentos",
+            "palavras": [
+                {
+                    "nome": "Morango",
+                    "caracteristicas": [
+                        "Vermelho e doce",
+                        "Fruta pequena",
+                        "Sabor delicioso"
+                    ]
+                },
+                {
+                    "nome": "Lasanha",
+                    "caracteristicas": [
+                        "Massa e molho",
+                        "Camadas de queijo",
+                        "Prato italiano"
+                    ]
+                },
+                {
+                    "nome": "Abacate",
+                    "caracteristicas": [
+                        "Verde e cremoso",
+                        "Fruta saudável",
+                        "Guacamole"
+                    ]
+                },
+                {
+                    "nome": "Sorvete de Baunilha",
+                    "caracteristicas": [
+                        "Gelado e cremoso",
+                        "Sabor clássico",
+                        "Toppings variados"
+                    ]
+                },
+                {
+                    "nome": "Sushi",
+                    "caracteristicas": [
+                        "Arroz e peixe cru",
+                        "Wasabi e molho de soja",
+                        "Prato japonês"
+                    ]
+                },
+                {
+                    "nome": "Manga",
+                    "caracteristicas": [
+                        "Fruta tropical",
+                        "Polpa suculenta",
+                        "Sabor doce e ácido"
+                    ]
+                },
+                {
+                    "nome": "Pizza Margherita",
+                    "caracteristicas": [
+                        "Massa fina e crocante",
+                        "Molho de tomate e mussarela",
+                        "Receita tradicional italiana"
+                    ]
+                },
+                {
+                    "nome": "Brócolis",
+                    "caracteristicas": [
+                        "Vegetal verde",
+                        "Rico em nutrientes",
+                        "Cozido no vapor"
+                    ]
+                },
+                {
+                    "nome": "Pêssego",
+                    "caracteristicas": [
+                        "Fruta macia",
+                        "Pele aveludada",
+                        "Sabor suave e doce"
+                    ]
+                },
+                {
+                    "nome": "Chocolate Quente",
+                    "caracteristicas": [
+                        "Bebida quente",
+                        "Chocolate derretido",
+                        "Marshmallows por cima"
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Países",
+            "palavras": [
+                {
+                    "nome": "Canadá",
+                    "caracteristicas": [
+                        "País na América do Norte",
+                        "Bilíngue: Inglês e Francês",
+                        "Paisagens naturais deslumbrantes"
+                    ]
+                },
+                {
+                    "nome": "Austrália",
+                    "caracteristicas": [
+                        "País na Oceania",
+                        "Inglês como língua oficial",
+                        "Diversidade de fauna única"
+                    ]
+                },
+                {
+                    "nome": "Itália",
+                    "caracteristicas": [
+                        "País na Europa",
+                        "Culinária renomada",
+                        "História rica em arte e cultura"
+                    ]
+                },
+                {
+                    "nome": "Índia",
+                    "caracteristicas": [
+                        "País na Ásia",
+                        "Cultura diversificada",
+                        "Patrimônio de tradições milenares"
+                    ]
+                },
+                {
+                    "nome": "Espanha",
+                    "caracteristicas": [
+                        "País na Europa",
+                        "Língua oficial: Espanhol",
+                        "Arquitetura histórica e vibrante cultura"
+                    ]
+                },
+                {
+                    "nome": "Tailândia",
+                    "caracteristicas": [
+                        "País no Sudeste Asiático",
+                        "Culinária picante",
+                        "Templos budistas e praias exóticas"
+                    ]
+                },
+                {
+                    "nome": "México",
+                    "caracteristicas": [
+                        "País na América do Norte",
+                        "Culinária tradicional",
+                        "Cultura vibrante e colorida"
+                    ]
+                },
+                {
+                    "nome": "Suécia",
+                    "caracteristicas": [
+                        "País na Europa",
+                        "Língua oficial: Sueco",
+                        "Natureza deslumbrante e qualidade de vida"
+                    ]
+                },
+                {
+                    "nome": "Nova Zelândia",
+                    "caracteristicas": [
+                        "País na Oceania",
+                        "Paisagens naturais espetaculares",
+                        "Aventuras ao ar livre"
+                    ]
+                },
+                {
+                    "nome": "Egito",
+                    "caracteristicas": [
+                        "País no Norte da África",
+                        "Patrimônio histórico",
+                        "Pirâmides e o Rio Nilo"
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Filmes",
+            "palavras": [
+                {
+                    "nome": "Senhor das Estrelas",
+                    "caracteristicas": [
+                        "Aventura Espacial",
+                        "Equipe de heróis",
+                        "Guardiões da Galáxia"
+                    ]
+                },
+                {
+                    "nome": "Jurassic World",
+                    "caracteristicas": [
+                        "Dinossauros",
+                        "Parque temático de dinossauros",
+                        "Ação e suspense"
+                    ]
+                },
+                {
+                    "nome": "Matrix",
+                    "caracteristicas": [
+                        "Realidade virtual",
+                        "Keanu Reeves como Neo",
+                        "Escolha entre a pílula vermelha e azul"
+                    ]
+                },
+                {
+                    "nome": "Coco",
+                    "caracteristicas": [
+                        "Animação musical",
+                        "Dia dos Mortos",
+                        "Jornada emocional no México"
+                    ]
+                },
+                {
+                    "nome": "O Rei Leão",
+                    "caracteristicas": [
+                        "Animação da Disney",
+                        "Hakuna Matata",
+                        "Ciclo da vida na savana"
+                    ]
+                },
+                {
+                    "nome": "Harry Potter e a Pedra Filosofal",
+                    "caracteristicas": [
+                        "Magia e aventura",
+                        "Escola de Magia de Hogwarts",
+                        "Baseado no livro de J.K. Rowling"
+                    ]
+                },
+                {
+                    "nome": "Pantera Negra",
+                    "caracteristicas": [
+                        "Herói da Marvel",
+                        "Wakanda e T'Challa",
+                        "Inovação tecnológica"
+                    ]
+                },
+                {
+                    "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+                    "caracteristicas": [
+                        "Fantasia épica",
+                        "Um Anel e Frodo",
+                        "Jornada para Mordor"
+                    ]
+                },
+                {
+                    "nome": "Frozen",
+                    "caracteristicas": [
+                        "Animação da Disney",
+                        "Elsa e Anna",
+                        "Poderes de gelo e amor fraternal"
+                    ]
+                },
+                {
+                    "nome": "Star Trek: Além da Escuridão",
+                    "caracteristicas": [
+                        "Ficção científica",
+                        "Jornada nas estrelas",
+                        "Confronto com Khan"
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Capitais",
+            "palavras": [
+                {
+                    "nome": "Roma",
+                    "caracteristicas": [
+                        "Capital da Itália",
+                        "Coliseu e Vaticano",
+                        "História antiga e arte renascentista"
+                    ]
+                },
+                {
+                    "nome": "Bangkok",
+                    "caracteristicas": [
+                        "Capital da Tailândia",
+                        "Templos dourados",
+                        "Culinária de rua vibrante"
+                    ]
+                },
+                {
+                    "nome": "Cidade do México",
+                    "caracteristicas": [
+                        "Capital do México",
+                        "Palácio Nacional e Zócalo",
+                        "Rica herança cultural"
+                    ]
+                },
+                {
+                    "nome": "Atenas",
+                    "caracteristicas": [
+                        "Capital da Grécia",
+                        "Acrópole e Partenon",
+                        "Berço da democracia"
+                    ]
+                },
+                {
+                    "nome": "Oslo",
+                    "caracteristicas": [
+                        "Capital da Noruega",
+                        "Fiorde de Oslo",
+                        "Arquitetura moderna e natureza exuberante"
+                    ]
+                },
+                {
+                    "nome": "Cairo",
+                    "caracteristicas": [
+                        "Capital do Egito",
+                        "Pirâmides de Gizé",
+                        "Centro da antiga civilização egípcia"
+                    ]
+                },
+                {
+                    "nome": "Moscovo",
+                    "caracteristicas": [
+                        "Capital da Rússia",
+                        "Catedral de São Basílio e Kremlin",
+                        "Cultura rica e história intrigante"
+                    ]
+                },
+                {
+                    "nome": "Tóquio",
+                    "caracteristicas": [
+                        "Capital do Japão",
+                        "Tecnologia de ponta e cultura pop",
+                        "Vida agitada e contrastes fascinantes"
+                    ]
+                },
+                {
+                    "nome": "Wellington",
+                    "caracteristicas": [
+                        "Capital da Nova Zelândia",
+                        "Belas paisagens naturais",
+                        "Cultura Maori e aventuras ao ar livre"
+                    ]
+                },
+                {
+                    "nome": "Bogotá",
+                    "caracteristicas": [
+                        "Capital da Colômbia",
+                        "Museu do Ouro e Monserrate",
+                        "Cultura colombiana diversificada"
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Esportes",
+            "palavras": [
+                {
+                    "nome": "Esportes",
+                    "palavras": [
+                        {
+                            "nome": "Esgrima",
+                            "caracteristicas": [
+                                "Espada",
+                                "Florete",
+                                "Duelos"
+                            ]
+                        },
+                        {
+                            "nome": "Tênis de Mesa",
+                            "caracteristicas": [
+                                "Raquete",
+                                "Bolinha",
+                                "Táticas de Spin"
+                            ]
+                        },
+                        {
+                            "nome": "Ginástica Rítmica",
+                            "caracteristicas": [
+                                "Fitas",
+                                "Maças",
+                                "Rotinas Graciosas"
+                            ]
+                        },
+                        {
+                            "nome": "Polo Aquático",
+                            "caracteristicas": [
+                                "Piscina",
+                                "Bola",
+                                "Natação e Tiros ao Gol"
+                            ]
+                        },
+                        {
+                            "nome": "Escalada em Rocha",
+                            "caracteristicas": [
+                                "Cordas",
+                                "Agarres",
+                                "Paredes Naturais"
+                            ]
+                        },
+                        {
+                            "nome": "Patinação Artística",
+                            "caracteristicas": [
+                                "Patins",
+                                "Coreografias",
+                                "Saltos e Piruetas"
+                            ]
+                        },
+                        {
+                            "nome": "Canoagem",
+                            "caracteristicas": [
+                                "Canoas",
+                                "Remo",
+                                "Correntezas"
+                            ]
+                        },
+                        {
+                            "nome": "Rugby",
+                            "caracteristicas": [
+                                "Bola Oval",
+                                "Try",
+                                "Tackles"
+                            ]
+                        },
+                        {
+                            "nome": "Badminton",
+                            "caracteristicas": [
+                                "Raquete de Penas",
+                                "Quadra",
+                                "Ralis Rápidos"
+                            ]
+                        },
+                        {
+                            "nome": "Wakeboard",
+                            "caracteristicas": [
+                                "Prancha de Wakeboard",
+                                "Cabo de Reboque",
+                                "Manobras Aéreas"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nome": "Profissões",
+                    "palavras": [
+                        {
+                            "nome": "Neurocirurgião",
+                            "caracteristicas": [
+                                "Profissional da medicina",
+                                "Diagnóstico e tratamento de pacientes",
+                                "Ético e compassivo"
+                            ]
+                        },
+                        {
+                            "nome": "Instrutor de Música",
+                            "caracteristicas": [
+                                "Instrutor",
+                                "Transmissão de conhecimento musical",
+                                "Influencia o aprendizado dos alunos"
+                            ]
+                        },
+                        {
+                            "nome": "Engenheiro de Software",
+                            "caracteristicas": [
+                                "Projetista e construtor de software",
+                                "Solução de problemas técnicos",
+                                "Inovação e tecnologia"
+                            ]
+                        },
+                        {
+                            "nome": "Advogado de Direitos Humanos",
+                            "caracteristicas": [
+                                "Defensor legal de direitos humanos",
+                                "Interpretação da lei",
+                                "Representação de clientes em questões legais"
+                            ]
+                        },
+                        {
+                            "nome": "Detetive Privado",
+                            "caracteristicas": [
+                                "Investigador privado",
+                                "Investigação e resolução de casos",
+                                "Manutenção da ordem na sociedade"
+                            ]
+                        },
+                        {
+                            "nome": "Bombeiro de Resgate",
+                            "caracteristicas": [
+                                "Salvador de vidas",
+                                "Combate a incêndios e resgate",
+                                "Coragem e prontidão"
+                            ]
+                        },
+                        {
+                            "nome": "Violinista",
+                            "caracteristicas": [
+                                "Músico violinista",
+                                "Expressão criativa através do violino",
+                                "Talentoso em tocar instrumentos de corda"
+                            ]
+                        },
+                        {
+                            "nome": "Repórter de Ciência",
+                            "caracteristicas": [
+                                "Repórter de ciência",
+                                "Investigação e reportagem científica",
+                                "Responsável por notícias e informação científica"
+                            ]
+                        },
+                        {
+                            "nome": "Chef de Sushi",
+                            "caracteristicas": [
+                                "Culinária de sushi e gastronomia",
+                                "Preparação de pratos de sushi saborosos",
+                                "Criatividade na culinária de sushi"
+                            ]
+                        },
+                        {
+                            "nome": "Astrônomo",
+                            "caracteristicas": [
+                                "Cientista astrônomo",
+                                "Estudo do cosmos e pesquisa espacial",
+                                "Observação do universo e exploração científica"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nome": "Personagens de desenhos animados",
+                    "palavras": [
+                        {
+                            "nome": "Scooby-Dum",
+                            "caracteristicas": [
+                                "Primo de Scooby-Doo",
+                                "Personalidade intelectual",
+                                "Sempre com um livro"
+                            ]
+                        },
+                        {
+                            "nome": "Marge Simpson",
+                            "caracteristicas": [
+                                "Mãe da família Simpson",
+                                "Cabelo alto azul",
+                                "Paciente e amorosa"
+                            ]
+                        },
+                        {
+                            "nome": "Snoopy",
+                            "caracteristicas": [
+                                "Cão Beagle",
+                                "Amigo de Charlie Brown",
+                                "Famoso por sua imaginação"
+                            ]
+                        },
+                        {
+                            "nome": "Belle",
+                            "caracteristicas": [
+                                "Princesa Disney",
+                                "Apaixonada por livros",
+                                "Personagem de 'A Bela e a Fera'"
+                            ]
+                        },
+                        {
+                            "nome": "Patrick Estrela",
+                            "caracteristicas": [
+                                "Melhor amigo de Bob Esponja",
+                                "Estrela-do-mar rosa",
+                                "Inocente e divertido"
+                            ]
+                        },
+                        {
+                            "nome": "Minnie Mouse",
+                            "caracteristicas": [
+                                "Ícone da Disney",
+                                "Rato carismático",
+                                "Namorada do Mickey Mouse"
+                            ]
+                        },
+                        {
+                            "nome": "SpongeBob SquarePants",
+                            "caracteristicas": [
+                                "Personagem do fundo do mar",
+                                "Calça quadrada",
+                                "Vive na Fenda do Biquíni"
+                            ]
+                        },
+                        {
+                            "nome": "Bugs Bunny",
+                            "caracteristicas": [
+                                "Coelho esperto",
+                                "Criação da Warner Bros.",
+                                "Inimigo de Elmer Fudd"
+                            ]
+                        },
+                        {
+                            "nome": "Daffy Duck",
+                            "caracteristicas": [
+                                "Pato engraçado",
+                                "Criação da Warner Bros.",
+                                "Inimigo de Pernalonga"
+                            ]
+                        },
+                        {
+                            "nome": "Elsa",
+                            "caracteristicas": [
+                                "Rainha de Arendelle",
+                                "Poderes de gelo",
+                                "Personagem de 'Frozen'"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nome": "Marcas famosas",
+                    "palavras": [
+                        {
+                            "nome": "Tesla",
+                            "caracteristicas": [
+                                "Empresa de veículos elétricos",
+                                "Modelos como o Model S e o Cybertruck",
+                                "Inovação em tecnologia automotiva"
+                            ]
+                        },
+                        {
+                            "nome": "Sony",
+                            "caracteristicas": [
+                                "Empresa de eletrônicos e entretenimento",
+                                "PlayStation, TVs e câmeras",
+                                "Estúdio de cinema e música"
+                            ]
+                        },
+                        {
+                            "nome": "Pepsi",
+                            "caracteristicas": [
+                                "Marca de refrigerantes",
+                                "Rival da Coca-Cola",
+                                "Slogans como 'A alegria de beber' e 'Pepsi gera sorrisos'"
+                            ]
+                        },
+                        {
+                            "nome": "Lego",
+                            "caracteristicas": [
+                                "Marca de brinquedos de montar",
+                                "Blocos de construção coloridos",
+                                "Incentiva a criatividade e o aprendizado"
+                            ]
+                        },
+                        {
+                            "nome": "Audi",
+                            "caracteristicas": [
+                                "Fabricante de automóveis de luxo",
+                                "Modelos como o Audi A4 e o Audi Q5",
+                                "Design elegante e tecnologia avançada"
+                            ]
+                        },
+                        {
+                            "nome": "Netflix",
+                            "caracteristicas": [
+                                "Plataforma de streaming de vídeo",
+                                "Séries e filmes originais",
+                                "Assinatura mensal para conteúdo sob demanda"
+                            ]
+                        },
+                        {
+                            "nome": "Ford",
+                            "caracteristicas": [
+                                "Fabricante de automóveis",
+                                "Modelos icônicos como o Ford Mustang",
+                                "Contribuição para a indústria automotiva"
+                            ]
+                        },
+                        {
+                            "nome": "Sony Ericsson",
+                            "caracteristicas": [
+                                "Marca de telefones celulares",
+                                "Tecnologia de comunicação móvel",
+                                "Antiga parceria entre a Sony e a Ericsson"
+                            ]
+                        },
+                        {
+                            "nome": "Coca-Cola",
+                            "caracteristicas": [
+                                "Marca de refrigerantes",
+                                "Bebidas carbonatadas",
+                                "Slogans famosos e campanhas publicitárias"
+                            ]
+                        },
+                        {
+                            "nome": "LG",
+                            "caracteristicas": [
+                                "Empresa de eletrônicos",
+                                "Smartphones, TVs e eletrodomésticos",
+                                "Inovações em tecnologia de exibição"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nome": "Contos de fadas",
+                    "palavras": [
+                        {
+                            "nome": "Rumpelstiltskin",
+                            "caracteristicas": [
+                                "Personagem de conto de fadas",
+                                "Ajudou uma moça a fiar palha em ouro",
+                                "Exigiu o primeiro filho dela em troca"
+                            ]
+                        },
+                        {
+                            "nome": "O Flautista de Hamelin",
+                            "caracteristicas": [
+                                "Personagem de conto de fadas",
+                                "Livrou a cidade dos ratos com sua flauta",
+                                "Quando não pagaram, levou as crianças com sua música"
+                            ]
+                        },
+                        {
+                            "nome": "O Príncipe Sapo",
+                            "caracteristicas": [
+                                "Personagem de conto de fadas",
+                                "Transformado de sapo em príncipe",
+                                "Beijado por uma princesa para desfazer o encanto"
+                            ]
+                        },
+                        {
+                            "nome": "O Gato de Botas",
+                            "caracteristicas": [
+                                "Personagem de conto de fadas",
+                                "Usou astúcia para ajudar seu dono",
+                                "Conquistou o reino e a princesa"
+                            ]
+                        },
+                        {
+                            "nome": "O Soldadinho de Chumbo",
+                            "caracteristicas": [
+                                "Personagem de conto de fadas",
+                                "Um dos brinquedos de uma menina",
+                                "Enfrentou aventuras e perigos para voltar para casa"
+                            ]
+                        },
+                        {
+                            "nome": "A Bela Adormecida",
+                            "caracteristicas": [
+                                "Personagem de conto de fadas",
+                                "Amaldiçoada a dormir por um feitiço",
+                                "Acordada por um príncipe com um beijo de amor verdadeiro"
+                            ]
+                        },
+                        {
+                            "nome": "Cachinhos Dourados e os Três Ursos",
+                            "caracteristicas": [
+                                "Personagem de conto de fadas",
+                                "Entrou na casa dos três ursos",
+                                "Experimentou mingau, cadeiras e camas de diferentes tamanhos"
+                            ]
+                        },
+                        {
+                            "nome": "O Mágico de Oz",
+                            "caracteristicas": [
+                                "Personagem de conto de fadas",
+                                "Dorothy viajou para a Cidade das Esmeraldas",
+                                "Encontrou um Espantalho, um Homem de Lata e um Leão Covarde"
+                            ]
+                        },
+                        {
+                            "nome": "A Roupa Nova do Imperador",
+                            "caracteristicas": [
+                                "Personagem de conto de fadas",
+                                "Dois tecelões enganaram o imperador",
+                                "O imperador desfilou nu pensando que estava vestido"
+                            ]
+                        },
+                        {
+                            "nome": "Peter Pan",
+                            "caracteristicas": [
+                                "Personagem de conto de fadas",
+                                "Voava para a Terra do Nunca Jamais",
+                                "Lutou contra o Capitão Gancho e seus piratas"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

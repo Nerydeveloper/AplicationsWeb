@@ -1,0 +1,25 @@
+{
+    "niveis": {
+        "FÁCIL": {
+            "tempoLimite": 300, 
+            "numVerificacoes": 20,
+            "mostrarAssunto": true,
+            "mostrarDicas": 3,
+            "pontuacao_maxima": 100
+        },
+        "MODERADO": {
+            "tempoLimite": 120, 
+            "numVerificacoes": 10,
+            "mostrarAssunto": true,
+            "mostrarDicas": 3,
+            "pontuacao_maxima": 200
+        },
+        "DIFÍCIL": {
+            "tempoLimite": 180, 
+            "numVerificacoes": 3,
+            "mostrarAssunto": true,
+            "mostrarDicas": 1,
+            "pontuacao_maxima": 300
+        }
+    }
+}

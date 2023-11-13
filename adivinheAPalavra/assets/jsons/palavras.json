@@ -1,0 +1,854 @@
+{
+  "assuntos": [
+    {
+      "nome": "Animais",
+      "palavras": [
+        {
+          "nome": "Cachorro",
+          "caracteristicas": [
+            "Pelagem",
+            "Leal",
+            "Amigável"
+          ]
+        },
+        {
+          "nome": "Gato",
+          "caracteristicas": [
+            "Independente",
+            "Caçador",
+            "Elegante"
+          ]
+        },
+        {
+          "nome": "Elefante",
+          "caracteristicas": [
+            "Gigante",
+            "Tromba",
+            "Sociável"
+          ]
+        },
+        {
+          "nome": "Girafa",
+          "caracteristicas": [
+            "Pescoço longo",
+            "Herbívoro",
+            "Elegante"
+          ]
+        },
+        {
+          "nome": "Leão",
+          "caracteristicas": [
+            "Rei da selva",
+            "Carnívoro",
+            "Majestoso"
+          ]
+        },
+        {
+          "nome": "Golfinho",
+          "caracteristicas": [
+            "Inteligente",
+            "Saltador",
+            "Sociável"
+          ]
+        },
+        {
+          "nome": "Tucano",
+          "caracteristicas": [
+            "Bico colorido",
+            "Tropical",
+            "Voam bem"
+          ]
+        },
+        {
+          "nome": "Borboleta",
+          "caracteristicas": [
+            "Asas coloridas",
+            "Metamorfose",
+            "Leveza"
+          ]
+        },
+        {
+          "nome": "Tubarão",
+          "caracteristicas": [
+            "Predador marinho",
+            "Barbatanas afiadas",
+            "Nadador ágil"
+          ]
+        },
+        {
+          "nome": "Urso",
+          "caracteristicas": [
+            "Peludo",
+            "Hibernante",
+            "Força"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Alimentos",
+      "palavras": [
+        {
+          "nome": "Maçã",
+          "caracteristicas": [
+            "Vermelha",
+            "Fruta",
+            "Doce"
+          ]
+        },
+        {
+          "nome": "Pizza",
+          "caracteristicas": [
+            "Massa",
+            "Queijo",
+            "Toppings variados"
+          ]
+        },
+        {
+          "nome": "Banana",
+          "caracteristicas": [
+            "Amarela",
+            "Fruta",
+            "Curvada"
+          ]
+        },
+        {
+          "nome": "Chocolate",
+          "caracteristicas": [
+            "Doce",
+            "Cacau",
+            "Derrete na boca"
+          ]
+        },
+        {
+          "nome": "Hambúrguer",
+          "caracteristicas": [
+            "Carne",
+            "Pão",
+            "Condimentos"
+          ]
+        },
+        {
+          "nome": "Sushi",
+          "caracteristicas": [
+            "Arroz",
+            "Peixe cru",
+            "Wasabi e molho de soja"
+          ]
+        },
+        {
+          "nome": "Abacaxi",
+          "caracteristicas": [
+            "Tropical",
+            "Amarelo",
+            "Sabor agridoce"
+          ]
+        },
+        {
+          "nome": "Sorvete",
+          "caracteristicas": [
+            "Gelado",
+            "Diversos sabores",
+            "Sobremesa"
+          ]
+        },
+        {
+          "nome": "Espaguete",
+          "caracteristicas": [
+            "Massa longa",
+            "Molho de tomate",
+            "Queijo ralado"
+          ]
+        },
+        {
+          "nome": "Morango",
+          "caracteristicas": [
+            "Vermelho",
+            "Fruta pequena",
+            "Sabor doce"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Países",
+      "palavras": [
+        {
+          "nome": "Brasil",
+          "caracteristicas": [
+            "País na América do Sul",
+            "Língua oficial: Português",
+            "Cultura diversificada"
+          ]
+        },
+        {
+          "nome": "Estados Unidos",
+          "caracteristicas": [
+            "País na América do Norte",
+            "Língua oficial: Inglês",
+            "Economia forte"
+          ]
+        },
+        {
+          "nome": "França",
+          "caracteristicas": [
+            "País na Europa",
+            "Língua oficial: Francês",
+            "Culinária renomada"
+          ]
+        },
+        {
+          "nome": "Japão",
+          "caracteristicas": [
+            "País na Ásia",
+            "Língua oficial: Japonês",
+            "Tecnologia avançada"
+          ]
+        },
+        {
+          "nome": "Canadá",
+          "caracteristicas": [
+            "País na América do Norte",
+            "Língua oficial: Inglês e Francês",
+            "Natureza deslumbrante"
+          ]
+        },
+        {
+          "nome": "Espanha",
+          "caracteristicas": [
+            "País na Europa",
+            "Língua oficial: Espanhol",
+            "Arquitetura histórica"
+          ]
+        },
+        {
+          "nome": "Austrália",
+          "caracteristicas": [
+            "País na Oceania",
+            "Língua oficial: Inglês",
+            "Fauna única"
+          ]
+        },
+        {
+          "nome": "Índia",
+          "caracteristicas": [
+            "País na Ásia",
+            "Línguas oficiais: Hindi e Inglês",
+            "Cultura rica em tradições"
+          ]
+        },
+        {
+          "nome": "Rússia",
+          "caracteristicas": [
+            "País na Europa e Ásia",
+            "Língua oficial: Russo",
+            "Vasta extensão territorial"
+          ]
+        },
+        {
+          "nome": "México",
+          "caracteristicas": [
+            "País na América do Norte",
+            "Língua oficial: Espanhol",
+            "Comida picante"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Filmes",
+      "palavras": [
+        {
+          "nome": "Star Wars",
+          "caracteristicas": [
+            "Ficção Científica",
+            "Espaço Sideral",
+            "Força e Jedi"
+          ]
+        },
+        {
+          "nome": "Jurassic Park",
+          "caracteristicas": [
+            "Dinossauros",
+            "Aventura",
+            "Parque Temático"
+          ]
+        },
+        {
+          "nome": "Titanic",
+          "caracteristicas": [
+            "Romance",
+            "Desastre marítimo",
+            "Leonardo DiCaprio e Kate Winslet"
+          ]
+        },
+        {
+          "nome": "Avatar",
+          "caracteristicas": [
+            "Planeta Pandora",
+            "Tecnologia 3D",
+            "Direção de James Cameron"
+          ]
+        },
+        {
+          "nome": "Harry Potter",
+          "caracteristicas": [
+            "Magia",
+            "Bruxos e Feitiços",
+            "Baseado nos livros de J.K. Rowling"
+          ]
+        },
+        {
+          "nome": "O Senhor dos Anéis",
+          "caracteristicas": [
+            "Fantasia Épica",
+            "Tolkien",
+            "Um Anel e Frodo"
+          ]
+        },
+        {
+          "nome": "Matrix",
+          "caracteristicas": [
+            "Realidade Virtual",
+            "Keanu Reeves",
+            "Pílula Vermelha ou Azul"
+          ]
+        },
+        {
+          "nome": "Vingadores",
+          "caracteristicas": [
+            "Super-Heróis da Marvel",
+            "Thanos",
+            "Universo Cinematográfico Marvel"
+          ]
+        },
+        {
+          "nome": "Pantera Negra",
+          "caracteristicas": [
+            "Herói da Marvel",
+            "Wakanda",
+            "Chadwick Boseman"
+          ]
+        },
+        {
+          "nome": "E.T. - O Extraterrestre",
+          "caracteristicas": [
+            "Alienígena amigável",
+            "Amizade com crianças",
+            "Dirigido por Steven Spielberg"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Capitais",
+      "palavras": [
+        {
+          "nome": "Londres",
+          "caracteristicas": [
+            "Capital do Reino Unido",
+            "Rio Tâmisa",
+            "Pontos turísticos como o Big Ben e o Palácio de Buckingham"
+          ]
+        },
+        {
+          "nome": "Paris",
+          "caracteristicas": [
+            "Capital da França",
+            "Torre Eiffel",
+            "Culinária gourmet"
+          ]
+        },
+        {
+          "nome": "Tóquio",
+          "caracteristicas": [
+            "Capital do Japão",
+            "Cultura pop",
+            "Tecnologia avançada"
+          ]
+        },
+        {
+          "nome": "Nova Iorque",
+          "caracteristicas": [
+            "Cidade dos EUA",
+            "Arranha-céus",
+            "Broadway e Times Square"
+          ]
+        },
+        {
+          "nome": "Berlim",
+          "caracteristicas": [
+            "Capital da Alemanha",
+            "História e cultura rica",
+            "Muro de Berlim"
+          ]
+        },
+        {
+          "nome": "Roma",
+          "caracteristicas": [
+            "Capital da Itália",
+            "Coliseu",
+            "História antiga e arte renascentista"
+          ]
+        },
+        {
+          "nome": "Pequim",
+          "caracteristicas": [
+            "Capital da China",
+            "A Grande Muralha da China",
+            "Cidade histórica"
+          ]
+        },
+        {
+          "nome": "Moscou",
+          "caracteristicas": [
+            "Capital da Rússia",
+            "Kremlin",
+            "Cultura russa e história"
+          ]
+        },
+        {
+          "nome": "Cairo",
+          "caracteristicas": [
+            "Capital do Egito",
+            "Pirâmides de Gizé",
+            "Cultura egípcia antiga"
+          ]
+        },
+        {
+          "nome": "Buenos Aires",
+          "caracteristicas": [
+            "Capital da Argentina",
+            "Tango",
+            "Culinária e cultura latina"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Esportes",
+      "palavras": [
+        {
+          "nome": "Futebol",
+          "caracteristicas": [
+            "Esporte de equipe",
+            "Bola",
+            "Gol"
+          ]
+        },
+        {
+          "nome": "Basquete",
+          "caracteristicas": [
+            "Esporte de equipe",
+            "Bola e cesta",
+            "Saltos e enterradas"
+          ]
+        },
+        {
+          "nome": "Tênis",
+          "caracteristicas": [
+            "Esporte individual",
+            "Raquete",
+            "Quadra de saibro ou grama"
+          ]
+        },
+        {
+          "nome": "Natação",
+          "caracteristicas": [
+            "Esporte aquático",
+            "Piscina ou águas abertas",
+            "Nado livre, costas, borboleta e peito"
+          ]
+        },
+        {
+          "nome": "Ciclismo",
+          "caracteristicas": [
+            "Esporte de bicicleta",
+            "Bicicleta de estrada ou montanha",
+            "Tour de France"
+          ]
+        },
+        {
+          "nome": "Golfe",
+          "caracteristicas": [
+            "Esporte individual",
+            "Taco e bola",
+            "Buracos e greens"
+          ]
+        },
+        {
+          "nome": "Atletismo",
+          "caracteristicas": [
+            "Esporte de corrida e salto",
+            "Corrida, salto em altura, arremesso e decatlo",
+            "Usain Bolt e Carl Lewis"
+          ]
+        },
+        {
+          "nome": "Hóquei",
+          "caracteristicas": [
+            "Esporte de equipe no gelo ou grama",
+            "Puck ou bola",
+            "Hóquei no gelo, hóquei em campo"
+          ]
+        },
+        {
+          "nome": "Vôlei",
+          "caracteristicas": [
+            "Esporte de equipe",
+            "Bola e rede",
+            "Vôlei de quadra e vôlei de praia"
+          ]
+        },
+        {
+          "nome": "Surf",
+          "caracteristicas": [
+            "Esporte aquático",
+            "Prancha e ondas",
+            "Havaí e lendas do surf"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Profissões",
+      "palavras": [
+        {
+          "nome": "Médico",
+          "caracteristicas": [
+            "Profissional de saúde",
+            "Diagnóstico e tratamento de pacientes",
+            "Ético e compassivo"
+          ]
+        },
+        {
+          "nome": "Professor",
+          "caracteristicas": [
+            "Educador",
+            "Transmissão de conhecimento",
+            "Influencia o aprendizado dos alunos"
+          ]
+        },
+        {
+          "nome": "Engenheiro",
+          "caracteristicas": [
+            "Projetista e construtor",
+            "Solução de problemas técnicos",
+            "Inovação e tecnologia"
+          ]
+        },
+        {
+          "nome": "Advogado",
+          "caracteristicas": [
+            "Defensor legal",
+            "Interpretação da lei",
+            "Representação de clientes em questões legais"
+          ]
+        },
+        {
+          "nome": "Policial",
+          "caracteristicas": [
+            "Mantenedor da lei",
+            "Manutenção da ordem pública",
+            "Aplicação da lei e proteção da sociedade"
+          ]
+        },
+        {
+          "nome": "Bombeiro",
+          "caracteristicas": [
+            "Salvador de vidas",
+            "Combate a incêndios e resgate",
+            "Coragem e prontidão"
+          ]
+        },
+        {
+          "nome": "Músico",
+          "caracteristicas": [
+            "Artista musical",
+            "Expressão criativa",
+            "Talentoso em tocar instrumentos ou cantar"
+          ]
+        },
+        {
+          "nome": "Jornalista",
+          "caracteristicas": [
+            "Contador de histórias",
+            "Investigação e reportagem",
+            "Responsável por notícias e informação"
+          ]
+        },
+        {
+          "nome": "Chef de cozinha",
+          "caracteristicas": [
+            "Culinária e gastronomia",
+            "Preparação de pratos saborosos",
+            "Criatividade na cozinha"
+          ]
+        },
+        {
+          "nome": "Astronauta",
+          "caracteristicas": [
+            "Exploração espacial",
+            "Treinamento rigoroso",
+            "Viagens ao espaço e pesquisa científica"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Personagens de desenhos animados",
+      "palavras": [
+        {
+          "nome": "Mickey Mouse",
+          "caracteristicas": [
+            "Ícone da Disney",
+            "Rato carismático",
+            "Criado por Walt Disney"
+          ]
+        },
+        {
+          "nome": "Bob Esponja",
+          "caracteristicas": [
+            "Personagem do fundo do mar",
+            "Calça quadrada",
+            "Vive na Fenda do Biquíni"
+          ]
+        },
+        {
+          "nome": "Pernalonga",
+          "caracteristicas": [
+            "Coelho esperto",
+            "Criação da Warner Bros.",
+            "Inimigo de Patolino"
+          ]
+        },
+        {
+          "nome": "Tom e Jerry",
+          "caracteristicas": [
+            "Gato e rato em desenhos animados",
+            "Comédia slapstick",
+            "Criados por William Hanna e Joseph Barbera"
+          ]
+        },
+        {
+          "nome": "Pikachu",
+          "caracteristicas": [
+            "Personagem de Pokémon",
+            "Rato elétrico",
+            "Treinado por Ash Ketchum"
+          ]
+        },
+        {
+          "nome": "Scooby-Doo",
+          "caracteristicas": [
+            "Cão detetive",
+            "Mistérios sobrenaturais",
+            "Adora Scooby-Snacks"
+          ]
+        },
+        {
+          "nome": "Dora a Aventureira",
+          "caracteristicas": [
+            "Aventureira e exploradora",
+            "Ensina lições educativas",
+            "Amiga do macaco Botas"
+          ]
+        },
+        {
+          "nome": "Bart Simpson",
+          "caracteristicas": [
+            "Membro da família Simpson",
+            "Travesso e irreverente",
+            "Criado por Matt Groening"
+          ]
+        },
+        {
+          "nome": "Shrek",
+          "caracteristicas": [
+            "Ogro bondoso",
+            "Filme de animação da DreamWorks",
+            "Amigo do Burro"
+          ]
+        },
+        {
+          "nome": "Homem-Aranha",
+          "caracteristicas": [
+            "Super-herói da Marvel",
+            "Identidade secreta de Peter Parker",
+            "Teias e habilidades de escalada"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Marcas famosas",
+      "palavras": [
+        {
+          "nome": "Apple",
+          "caracteristicas": [
+            "Empresa de tecnologia",
+            "iPhones, Macs e iPads",
+            "Design elegante e inovação"
+          ]
+        },
+        {
+          "nome": "Nike",
+          "caracteristicas": [
+            "Marca de roupas e calçados esportivos",
+            "Logotipo Swoosh",
+            "Patrocina atletas e equipes esportivas"
+          ]
+        },
+        {
+          "nome": "Coca-Cola",
+          "caracteristicas": [
+            "Marca de refrigerantes",
+            "Refrigerante carbonatado",
+            "Slogans famosos como 'Abra a Felicidade'"
+          ]
+        },
+        {
+          "nome": "Microsoft",
+          "caracteristicas": [
+            "Empresa de tecnologia",
+            "Windows, Office e Xbox",
+            "Desenvolvimento de software e hardware"
+          ]
+        },
+        {
+          "nome": "Disney",
+          "caracteristicas": [
+            "Empresa de entretenimento",
+            "Filmes de animação e parques temáticos",
+            "Personagens como Mickey Mouse e Cinderela"
+          ]
+        },
+        {
+          "nome": "McDonald's",
+          "caracteristicas": [
+            "Rede de fast food",
+            "Hamburgueres, batatas fritas e refrigerantes",
+            "McLanche Feliz e Ronald McDonald"
+          ]
+        },
+        {
+          "nome": "Amazon",
+          "caracteristicas": [
+            "Empresa de comércio eletrônico",
+            "Amazon.com e serviços de streaming",
+            "Jeff Bezos como fundador"
+          ]
+        },
+        {
+          "nome": "Samsung",
+          "caracteristicas": [
+            "Empresa de eletrônicos",
+            "Smartphones, TVs e eletrodomésticos",
+            "Concorrente da Apple e da LG"
+          ]
+        },
+        {
+          "nome": "Google",
+          "caracteristicas": [
+            "Empresa de tecnologia",
+            "Motor de busca, Android e Gmail",
+            "Motores de busca e publicidade online"
+          ]
+        },
+        {
+          "nome": "Adidas",
+          "caracteristicas": [
+            "Marca de roupas e calçados esportivos",
+            "Três listras como logotipo",
+            "Colaborações com atletas e designers"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Contos de fadas",
+      "palavras": [
+        {
+          "nome": "Cinderela",
+          "caracteristicas": [
+            "Personagem de conto de fadas",
+            "Perdeu um sapatinho de cristal",
+            "Realizada com a ajuda da Fada Madrinha"
+          ]
+        },
+        {
+          "nome": "Branca de Neve",
+          "caracteristicas": [
+            "Personagem de conto de fadas",
+            "Fugiu da Rainha Má",
+            "Morou com sete anões"
+          ]
+        },
+        {
+          "nome": "Chapeuzinho Vermelho",
+          "caracteristicas": [
+            "Personagem de conto de fadas",
+            "Visitou a vovó com uma cesta",
+            "Encontrou o Lobo Mau"
+          ]
+        },
+        {
+          "nome": "Rapunzel",
+          "caracteristicas": [
+            "Personagem de conto de fadas",
+            "Prendida em uma torre",
+            "Salva por um príncipe"
+          ]
+        },
+        {
+          "nome": "A Bela e a Fera",
+          "caracteristicas": [
+            "Personagem de conto de fadas",
+            "Bela se apaixonou pela Fera",
+            "Encanto quebrado pelo amor"
+          ]
+        },
+        {
+          "nome": "A Pequena Sereia",
+          "caracteristicas": [
+            "Personagem de conto de fadas",
+            "Ariel, uma sereia",
+            "Sonhava em viver na terra"
+          ]
+        },
+        {
+          "nome": "João e o Pé de Feijão",
+          "caracteristicas": [
+            "Personagem de conto de fadas",
+            "João trocou uma vaca por feijões mágicos",
+            "Enfrentou um gigante no céu"
+          ]
+        },
+        {
+          "nome": "João e Maria",
+          "caracteristicas": [
+            "Personagens de conto de fadas",
+            "Deixados na floresta por seus pais",
+            "Encontraram uma casa de doces"
+          ]
+        },
+        {
+          "nome": "O Patinho Feio",
+          "caracteristicas": [
+            "Personagem de conto de fadas",
+            "Desprezado por sua aparência",
+            "Transformou-se em um belo cisne"
+          ]
+        },
+        {
+          "nome": "Aladim",
+          "caracteristicas": [
+            "Personagem de conto de fadas",
+            "Encontrou uma lâmpada mágica",
+            "Realizou desejos com o Gênio"
+          ]
+        }
+      ]
+    }
+  ]
+}

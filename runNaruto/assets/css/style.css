@@ -1,0 +1,99 @@
+@keyframes moverParaDireita {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+@keyframes move {
+    0% {
+        right: -100%;
+    }
+
+    100% {
+        right: 100%;
+    }
+}
+
+@keyframes jumpPerson {
+    0%{
+        bottom: 0;
+    }
+    20%{
+        bottom: 130px;
+    }
+    30%{
+        bottom: 130px;
+    }
+    40%{
+        bottom: 130px;
+    }
+    50%{
+        bottom: 130px;
+    }
+    60%{
+        bottom: 130px;
+    }
+    100%{
+        bottom: 0;
+    }
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container-game {
+    width: 100%;
+    height: 100%;
+    border: 2px solid black;
+    background-image: url("../midias/gifs/wallpaper-de-paisagem-em-design-plano_74890-34.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+    overflow: hidden;
+    /*  esconder tudo que tiver fora do container*/
+}
+
+
+.obstl01{
+    width: 100px;
+    position: absolute;
+    right: -100px;
+    bottom: -18px;
+    animation: move 1.5s infinite linear;
+    overflow: hidden;
+
+}
+
+/*
+.obstl02>img{
+    right: -250px;
+    bottom: -10px;
+    animation: move 3000ms infinite ease-out;
+
+}*/
+
+.narutoAndando {
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    
+}
+.jump{
+    animation: jumpPerson 500ms ease-out;
+}
